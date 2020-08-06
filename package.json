@@ -1,8 +1,7 @@
 {
-  "name": "vue-autonumeric",
-  "version": "1.2.6",
+  "name": "@samhammer/vue-autonumeric",
+  "version": "1.2.7",
   "description": "An AutoNumeric wrapper for Vue.js",
-  "author": "Alexandre Bonneau <alexandre.bonneau@linuxfr.eu>",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config ./build/webpack.dev.js --open --inline --hot",
@@ -72,17 +71,17 @@
     "webpack-bundle-analyzer": "^2.2.1",
     "webpack-dev-server": "^2.7.1"
   },
-  "homepage": "https://github.com/autoNumeric/vue-autoNumeric/",
+  "homepage": "https://github.com/SamhammerAG/vue-autoNumeric/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/autoNumeric/vue-autoNumeric.git"
+    "url": "git+https://github.com/SamhammerAG/vue-autoNumeric.git"
   },
   "bugs": {
-    "url": "https://github.com/autoNumeric/vue-autoNumeric/issues"
+    "url": "https://github.com/SamhammerAG/vue-autoNumeric/issues"
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/autoNumeric/vue-autoNumeric.git",
+    "target": "git://github.com/SamhammerAG/vue-autoNumeric.git",
     "basePath": "",
     "files": [
       "src/Autonumeric.vue"
