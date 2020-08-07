@@ -1,4 +1,4 @@
-declare module 'vue-autonumeric' {
+declare module '@samhammer/vue-autonumeric' {
     import Vue from 'vue';
 
     export default class VueAutonumeric extends Vue {
